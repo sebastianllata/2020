@@ -1,0 +1,97 @@
+body{
+    padding: 0;
+}
+#cont{
+    width: 900px;
+    height: 400px;
+    background-color:  rgb(226, 226, 226);
+    margin: auto;
+    margin-top: 20px;
+}
+#cont1{
+    width: 550px;
+    height: 450px;
+    float: left;
+}
+#cabecera{
+    width: 550px;
+    height: 50px;
+    margin-top: 30px;
+}
+#tabla{
+    width: 550px;
+    height: 150px;
+}
+#botones{
+    width: 550px;
+    height: 50px;
+}
+#cont2{
+    width: 300px;
+    height: 350px;
+    float: right;
+    background-color: white;
+    margin-right: 10px;
+    margin-top: 25px;
+
+}
+#numero{
+    background-color: red;
+    width: 300px;
+    height: 50px;
+    margin: auto;
+    float: left;
+
+}
+#cuerpo{
+    width: 290px;
+    height: 70px;
+    float: left;
+    margin-top: 10px;
+    
+}
+#cuerpo1{
+    width: 145px;
+    height: 70px;
+    float: left;
+}
+#cuerpo2{
+    width: 145px;
+    height: 70px;
+    float: right;
+    
+}
+#torax{
+    width: 290px;
+    height: 100px;
+    float: left;
+    margin-top: 10px;
+
+}
+#pie{
+    width: 290px;
+    height: 150px;
+    margin-top: 30px;
+
+}
+#pie1{
+    float: left;
+
+}
+#pie2{
+    float: right;
+
+}
+th {
+    text-align: left;
+}
+input[name="camptext"]{
+    width: 50px;
+}
+input[name="camptext1"]{
+    width: 70px;
+}
+.espa{
+    margin-left: 10px;
+}
+
